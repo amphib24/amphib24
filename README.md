@@ -22,24 +22,34 @@ posture!
 
 ## Certifications
 <div>
-<a href="https://www.comptia.org/certifications/a" target="_blank">
+<a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-A%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA A+ Badge"/>
 </a>
-<a href="https://www.comptia.org/certifications/network" target="_blank">
+<a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Network+ Badge"/>
 </a>
-<a href="https://www.comptia.org/certifications/security" target="_blank">
+<a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge"/>
 </a>
-<a href="https://www.comptia.org/certifications/project" target="_blank">
+<a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-Project%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Project+ Badge"/>
 </a>
-<a href="https://www.isc2.org/Certifications/CCSP" target="_blank">
+<a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/ISC2-CCSP-006B5E?style=flat" alt="ISC2 CCSP Badge"/>
 </a>
 </div>
 
-## Projects
+## Projects/Skills
+<table>
+  <tr>
+    <th>Skills</th>
+    <th>Projects</th>
+  </tr>
+  <tr>
+   <td>Digital Forensics</td>
+   <td>Project source</td>
+  </tr>
+</table>
 
 ## Tools
 
