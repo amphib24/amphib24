@@ -1,16 +1,58 @@
-## Hi there 👋
+## Hello, I am amphib24!
+<div>
+<a href="https://www.linkedin.com/in/jeff-blanchard-cybersec" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.kaggle.com/code/jeffdb/bellabeat" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+</a>
+<a href="https://public.tableau.com/app/profile/jeff.blanchard7584" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-Profile-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+</a>
+</div>
+
+## Introduction
+I am currently a senior at WGU, working towards achieving my bachelors in Cybersecurity and Information Assurance! 
+I created this page to showcase the skills, knowledge, and certifications I have learned so far. 
+
+## Objective
+Motivated cybersecurity professional seeking to kickstart my career as junior penetration tester. I am eager to apply practical
+skills in ethical hacking, vulnerability assessment, and network security to help organizations proactivley strengthen their security 
+posture!
+
+## Certifications
+<div>
+<a href="https://www.comptia.org/certifications/a" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA A+ Badge"/>
+</a>
+<a href="https://www.comptia.org/certifications/network" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Network+ Badge"/>
+</a>
+<a href="https://www.comptia.org/certifications/security" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge"/>
+</a>
+<a href="https://www.comptia.org/certifications/project" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Project%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Project+ Badge"/>
+</a>
+<a href="https://www.isc2.org/Certifications/CCSP" target="_blank">
+  <img src="https://img.shields.io/badge/ISC2-CCSP-006B5E?style=flat" alt="ISC2 CCSP Badge"/>
+</a>
+</div>
+
+## Projects
+
+## Tools
+
+## Languages
+Python
+SQL 
+R Programming(see kaggle link above)
+JavaScript
+HTML
+CSS
+
+
 
 <!--
-**amphib24/amphib24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
