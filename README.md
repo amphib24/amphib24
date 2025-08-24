@@ -52,6 +52,15 @@ posture!
 
 ## Tools
 
+* Nmap
+* Metasploit
+* Social Engineering Toolkit
+* Nessus
+* Wireshark
+* Autopsy
+* USB Rubber Ducky
+* Flipper Zero
+
 ## Languages
 <table>
   <tr>
@@ -73,6 +82,10 @@ posture!
   <tr>
     <td>JavaScript</td>
     <td>Under construction</td>
+  </tr>
+  <tr>
+    <td>DuckyScript</td>
+    <td>Under Construction</td>
   </tr>
   <tr>
     <td>HTML</td>
