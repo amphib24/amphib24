@@ -49,6 +49,10 @@ posture!
    <td>Digital Forensics</td>
    <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Report</a></td>
   </tr>
+  <tr>
+    <td>Vulnerability Scan</td>
+    <td><a href="https://github.com/amphib24/nessus_scan_cysa-_book/tree/main">Project<a/></td>
+  </tr>
 </table>
 
 ## Tools
