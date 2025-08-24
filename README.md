@@ -60,7 +60,7 @@ posture!
   </tr>
   <tr>
     <td>Python</td>
-    <td>under construction</td>
+    <td><a href="https://github.com/amphib24/Python_course_solutions/tree/main">Examples</a></td>
  </tr>
  <tr>
    <td>SQL</td>
@@ -68,7 +68,7 @@ posture!
  </tr>
   <tr>
     <td>R Progamming</td>
-    <td> <a href=""https://www.kaggle.com/code/jeffdb/bellabeat">Project</a></td>
+    <td> <a href="https://www.kaggle.com/code/jeffdb/bellabeat">Project</a></td>
   </tr>
   <tr>
     <td>JavaScript</td>
