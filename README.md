@@ -46,7 +46,11 @@ posture!
   </tr>
   <tr>
     <td>Vulnerability Scanning</td>
-    <td><a href="https://github.com/amphib24/nessus_scan_cysa-_book/tree/main">Project<a/></td>
+    <td><a href="https://github.com/amphib24/nessus_scan_cysa-_book/tree/main">Projects<a/></td>
+  </tr>
+  <tr>
+    <td>Penetration Testing</td>
+    <td><a href="https://github.com/amphib24/Pentests/tree/main">Projects</td>
   </tr>
 </table>
 
