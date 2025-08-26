@@ -11,7 +11,7 @@
 I created this page to showcase the skills, knowledge, and certifications I have learned so far. 
 
 ## Objective
-&nbsp;&nbsp;&nbsp;&nbsp;Motivated cybersecurity professional seeking to kickstart my career as junior penetration tester. I am eager to apply practical
+&nbsp;&nbsp;&nbsp;&nbsp;Motivated cybersecurity professional seeking to enter the cybersecurity profession. I am eager to apply practical
 skills in ethical hacking, vulnerability assessment, and network security to help organizations proactivley strengthen their security 
 posture!
 
