@@ -32,6 +32,9 @@ posture!
 <a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/ISC2-CCSP-006B5E?style=flat" alt="ISC2 CCSP Badge"/>
 </a>
+<a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA CySA Badge"/>
+</a>
 </div>
 
 ## Projects/Skills
@@ -43,6 +46,10 @@ posture!
   <tr>
    <td>Digital Forensics</td>
    <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Report</a></td>
+  </tr>
+  <tr>
+    <td>Secuirty Analyst</td>
+    <td><a href="https://github.com/amphib24/SecAnlaystProjects/tree/main">Projects</a></td>
   </tr>
   <tr>
     <td>Vulnerability Scanning</td>
