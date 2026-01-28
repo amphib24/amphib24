@@ -1,4 +1,4 @@
-## Hello, I am amphib24!
+## Hello! My name is Jeff and I am an aspiring cybersecurity professional.
 <div>
 <a href="https://www.linkedin.com/in/jeff-blanchard-cybersec" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
@@ -8,7 +8,7 @@
 
 ## Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;I am currently a senior at WGU, working towards achieving my bachelors in Cybersecurity and Information Assurance! 
-I created this page to showcase the skills, knowledge, and certifications I have learned so far. 
+ I believe cybersecurity is the most critical aspect of our society today. Between proecting government and corporate infrastructure and data, communication systems, to helping the everyday citezen stay protected and up to date on the cyber world around them, its a critical compenent to life as we know it. My passion is in ethical hacking and penetration testing. I am learning every day and hope to soon be hired in the industry so that I can do my part. This portfolio is designed to showcase labs and projects, as well as some scripting skills that I have done along my journey to obtain my bachelors degree in cybersecurity and information assurance from WGU. 
 
 ## Objective
 &nbsp;&nbsp;&nbsp;&nbsp;Motivated cybersecurity professional seeking to enter the cybersecurity profession. I am eager to apply practical
