@@ -78,9 +78,17 @@ posture!
     <td>Python</td>
     <td><a href="https://github.com/amphib24/Python_course_solutions/tree/main">Examples</a></td>
  </tr>
+<tr>
+    <td>PowerShell</td>
+    <td></td> 
+</tr>
+  <tr>
+    <td>Bash</td>
+    <td></td> 
+</tr>
  <tr>
    <td>SQL</td>
-   <td>under construction</td>
+   <td></td>
  </tr>
   <tr>
     <td>R Progamming</td>
@@ -88,11 +96,11 @@ posture!
   </tr>
   <tr>
     <td>JavaScript</td>
-    <td>Under construction</td>
+    <td></td>
   </tr>
   <tr>
     <td>DuckyScript</td>
-    <td>Under Construction</td>
+    <td></td>
   </tr>
   <tr>
     <td>HTML</td>
