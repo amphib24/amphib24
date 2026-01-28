@@ -80,7 +80,7 @@ posture!
  </tr>
 <tr>
     <td>PowerShell</td>
-    <td></td> 
+    <td><a href="https://github.com/amphib24/powershell">Examples</a></td> 
 </tr>
   <tr>
     <td>Bash</td>
