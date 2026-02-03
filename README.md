@@ -84,7 +84,7 @@ posture!
 </tr>
   <tr>
     <td>Bash</td>
-    <td></td> 
+    <td><a href="https://github.com/amphib24/bash_scripts">Examples</a></td> 
 </tr>
  <tr>
    <td>SQL</td>
