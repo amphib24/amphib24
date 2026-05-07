@@ -30,7 +30,7 @@ posture!
   <img src="https://img.shields.io/badge/CompTIA-Project%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Project+ Badge"/>
 </a>
 <a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
-  <img src="https://img.shields.io/badge/ISC2-CCSP-006B5E?style=flat" alt="ISC2 CCSP Badge"/>
+  <img src="https://img.shields.io/badge/ISC2-SSCP-006B5E?style=flat" alt="ISC2 SSCP Badge"/>
 </a>
 <a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA CySA Badge"/>
