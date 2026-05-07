@@ -34,6 +34,8 @@ posture!
 </a>
 <a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA CySA Badge"/>
+<a href="https://www.credly.com/users/jeff-blanchard.b356f9d7/badges#credly" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Pentest%2B-EA1D25?style=flat&logo=comptia&logoColor=white" alt="CompTIA Pentest Badge"/>
 </a>
 </div>
 
