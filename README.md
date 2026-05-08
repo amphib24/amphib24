@@ -66,14 +66,39 @@ My goal is to contribute to a security team where discipline, attention to detai
 
 ## Tools
 
-* Nmap
-* Metasploit
-* Social Engineering Toolkit
-* Nessus
-* Wireshark
+### Security Operations / Blue Team
+* Splunk (SIEM analysis, alert triage, log correlation) 
+* Wireshark (packet analysis, MITM investigation) 
+* Windows Event Logs (4624, 4698, 4688 analysis)
+* Linux logs (/var/log/auth.log, syslog)
+* Security Onion / SIEM concepts
+* Active Directory fundamentals
 * Autopsy
-* USB Rubber Ducky
-* Flipper Zero
+
+### Threat Detection / Incident Response
+* Security incident triage and investigation 
+* IOC extraction and analysis 
+* Attack chain reconstruction (initial access → persistence → privilege escalation) 
+* Process tree analysis (PPID, parent/child relationships) 
+* Authentication log analysis (4624, 4625, etc.) 
+* Scheduled task investigation (4698) 
+* MITRE ATT&CK mapping
+
+## Offensive/ Adversary Simulation (Foundational)
+ * Nmap (network discovery and enumeration) 
+ * Burp Suite (web application testing fundamentals) 
+ * Metasploit Framework (basic exploitation in labs) 
+ * Linux privilege escalation techniques (lab-based) 
+ * Web application attack fundamentals (TryHackMe labs) 
+ * Reconnaissance and enumeration techniques
+
+## Networking Fundamentals
+ * TCP/IP model understanding 
+ * DNS analysis and behavior 
+ * HTTP/HTTPS traffic analysis 
+ * Basic routing and network flow understanding 
+ * ARP protocol analysis and spoofing detection
+
 
 ## Languages
 <table>
