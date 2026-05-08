@@ -107,6 +107,7 @@ My goal is to contribute to a security team where discipline, attention to detai
 
 
 ## Languages
+This section highlights scripting and programming work applied to cybersecurity projects, including network reconnaissance, log analysis, and security automation using Bash, PowerShell, and Python.
 <table>
   <tr>
     <th>Language</th>
@@ -124,18 +125,6 @@ My goal is to contribute to a security team where discipline, attention to detai
     <td>Bash</td>
     <td><a href="https://github.com/amphib24/bash_scripts">Examples</a></td> 
 </tr>
- <tr>
-   <td>SQL</td>
-   <td></td>
- </tr>
- <tr>
-   <td>HTML</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>CSS</td>
-   <td></td>
-  </tr>
 </table>
 
 
