@@ -123,10 +123,6 @@ My goal is to contribute to a security team where discipline, attention to detai
     <td><a href="https://github.com/amphib24/bash_scripts">Examples</a></td> 
 </tr>
  <tr>
-   <td>R Progamming</td>
-    <td> <a href="https://www.kaggle.com/code/jeffdb/bellabeat">Project</a></td>
- </tr>
- <tr>
    <td>SQL</td>
    <td></td>
  </tr>
