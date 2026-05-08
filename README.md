@@ -21,7 +21,8 @@ My goal is to contribute to a security team where discipline, attention to detai
 
 ## Education 
    - Western Governors University – Bachelor of Science – Cybersecurity and Information Assurance
-       •	WGU Excellence Award | Honor Roll
+
+      •	WGU Excellence Award | Honor Roll
 
 ## Certifications
 <div>
