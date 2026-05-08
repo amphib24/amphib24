@@ -1,4 +1,4 @@
-## Hello! My name is Jeff and I am an aspiring cybersecurity professional.
+## Hello! My name is Jeff! Welcome to my portfolio.
 <div>
 <a href="https://www.linkedin.com/in/jeff-blanchard-cybersec" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
@@ -7,13 +7,18 @@
 </div>
 
 ## Introduction
-&nbsp;&nbsp;&nbsp;&nbsp;I am currently a senior at WGU, working towards achieving my bachelors in Cybersecurity and Information Assurance! 
- I believe cybersecurity is the most critical aspect of our society today. Between proecting government and corporate infrastructure and data, communication systems, to helping the everyday citezen stay protected and up to date on the cyber world around them, its a critical compenent to life as we know it. My passion is in ethical hacking and penetration testing. I am learning every day and hope to soon be hired in the industry so that I can do my part. This portfolio is designed to showcase labs and projects, as well as some scripting skills that I have done along my journey to obtain my bachelors degree in cybersecurity and information assurance from WGU. 
+&nbsp;&nbsp;&nbsp;&nbsp;I’m a career-changer who stepped into cybersecurity after a deliberate shift in direction later in life. At 39, I went back to school to pursue a degree in cybersecurity after feeling a strong pull toward the field and a desire to build a second career focused on technical problem-solving and defense. Outside of formal education, I spend a significant amount of my time in hands-on labs, threat simulations, and independent research. Platforms like TryHackMe and real-world scenario practice are a core part of how I continue to develop practical skills and reinforce what I learn academically.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Before transitioning into cybersecurity, I served in the military and built a professional background in business operations and management. That experience shaped how I approach problems today — structured thinking, discipline, accountability, and staying focused under pressure.I’m highly driven, self-directed, and committed to continuous improvement. When I take on a problem or investigation, I stay with it until it’s fully understood and resolved.
+
+This portfolio reflects my ongoing development in SOC analysis, threat detection, and security operations, with a focus on real-world, scenario-based learning.
+
 
 ## Objective
-&nbsp;&nbsp;&nbsp;&nbsp;Motivated cybersecurity professional seeking to enter the cybersecurity profession. I am eager to apply practical
-skills in ethical hacking, vulnerability assessment, and network security to help organizations proactivley strengthen their security 
-posture!
+&nbsp;&nbsp;&nbsp;&nbsp;To transition into a cybersecurity role where I can apply hands-on technical skills in SOC analysis, threat detection, and incident response. My focus is on building real-world capability in identifying, analyzing, and responding to security incidents using practical tools and methodologies.I am actively developing my expertise through structured learning, lab-based simulations, and continuous independent research, with a strong emphasis on attacker behavior, log analysis, and defensive operations.
+
+My goal is to contribute to a security team where discipline, attention to detail, and persistence in investigation directly support effective threat detection and incident response.
+
 
 ## Certifications
 <div>
