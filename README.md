@@ -52,15 +52,15 @@ My goal is to contribute to a security team where discipline, attention to detai
   </tr>
   <tr>
     <td>Alert Triage (Splunk)</td>
-    <td><a href="https://github.com/amphib24/alert-triage-splunk/">Projects</a></td>
+    <td><a href="https://github.com/amphib24/alert-triage-splunk/">SOC Alert Investigation</a></td>
   </tr>
   <tr>
     <td>MITM Analysis (Wireshark)</td>
-    <td><a href="https://github.com/amphib24/MITM-detection">Projects</td>
+    <td><a href="https://github.com/amphib24/MITM-detection">Network Attack Analysis</td>
   </tr>
   <tr>
    <td>Digital Forensics (Autopsy)</td>
-   <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Report</a></td>
+   <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Digital Forensics Case Study</a></td>
   </tr>
 </table>
 
