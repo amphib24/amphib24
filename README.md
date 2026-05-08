@@ -115,15 +115,15 @@ This section highlights scripting and programming work applied to cybersecurity 
   </tr>
   <tr>
     <td>Python</td>
-    <td><a href="https://github.com/amphib24/python_projects">Examples</a></td>
+    <td><a href="https://github.com/amphib24/python_projects">Python Repository</a></td>
  </tr>
 <tr>
     <td>PowerShell</td>
-    <td><a href="https://github.com/amphib24/powershell">Examples</a></td> 
+    <td><a href="https://github.com/amphib24/powershell">PowerShell Repository</a></td> 
 </tr>
   <tr>
     <td>Bash</td>
-    <td><a href="https://github.com/amphib24/bash_scripts">Examples</a></td> 
+    <td><a href="https://github.com/amphib24/bash_scripts">Bash Repository</a></td> 
 </tr>
 </table>
 
