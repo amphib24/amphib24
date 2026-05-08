@@ -1,4 +1,4 @@
-## Hello! My name is Jeff! Welcome to my portfolio.
+## Cybersecurity Portfolio
 <div>
 <a href="https://www.linkedin.com/in/jeff-blanchard-cybersec" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
