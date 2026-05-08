@@ -112,7 +112,7 @@ My goal is to contribute to a security team where discipline, attention to detai
   </tr>
   <tr>
     <td>Python</td>
-    <td><a href="https://github.com/amphib24/Python_course_solutions/tree/main">Examples</a></td>
+    <td><a href="https://github.com/amphib24/python_projects">Examples</a></td>
  </tr>
 <tr>
     <td>PowerShell</td>
