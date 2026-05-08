@@ -73,7 +73,7 @@ My goal is to contribute to a security team where discipline, attention to detai
 ### Security Operations / Blue Team
 * Splunk (SIEM analysis, alert triage, log correlation) 
 * Wireshark (packet analysis, MITM investigation) 
-* Windows Event Logs (4624, 4698, 4688 analysis)
+* Windows Event Logs Analysis
 * Linux logs (/var/log/auth.log, syslog)
 * Security Onion / SIEM concepts
 * Active Directory fundamentals
@@ -82,11 +82,13 @@ My goal is to contribute to a security team where discipline, attention to detai
 ### Threat Detection / Incident Response
 * Security incident triage and investigation 
 * IOC extraction and analysis 
-* Attack chain reconstruction (initial access → persistence → privilege escalation) 
+* Attack chain reconstruction  
 * Process tree analysis (PPID, parent/child relationships) 
-* Authentication log analysis (4624, 4625, etc.) 
-* Scheduled task investigation (4698) 
+* Authentication log analysis  
+* Scheduled task investigation 
 * MITRE ATT&CK mapping
+* VirusTotal
+* AbuseIPDB
 
 ## Offensive/ Adversary Simulation (Foundational)
  * Nmap (network discovery and enumeration) 
