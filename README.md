@@ -64,7 +64,7 @@ My goal is to contribute to a security team where discipline, attention to detai
   <tr>
    <td>Digital Forensics (Autopsy)</td>
    <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Digital Forensics Case Study</a></td>
-   <td>Case study</td>
+   <td>Evidence Analysis</td>
   </tr>
 </table>
 
