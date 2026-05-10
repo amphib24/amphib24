@@ -66,6 +66,11 @@ My goal is to contribute to a security team where discipline, attention to detai
     <td>MITM- ARP|DNS|SSL Stripping</td>
   </tr>
   <tr>
+    <td>Windows Log Analysis</td>
+    <td><a href="https://github.com/amphib24/threat-hunting-windows-log-analysis/tree/main">Log Analysis</a></td>
+    <td>Threat hunting utilizing Event Viewer and Sysmon</td>
+  </tr>
+  <tr>
    <td>Digital Forensics (Autopsy)</td>
    <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Digital Forensics Case Study</a></td>
    <td>Evidence Analysis</td>
