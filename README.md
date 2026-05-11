@@ -56,15 +56,15 @@ My goal is to contribute to a security team where discipline, attention to detai
     <th>Description</th>
   </tr>
   <tr>
-    <td>Alert Triage (Splunk)</td>
-    <td><a href="https://github.com/amphib24/alert-triage-splunk/">SOC Alert Investigation</a></td>
-    <td>Brute Force, Persistence, Web Shell</td>
-  </tr>
-  <tr>
     <td>MITM Analysis (Wireshark)</td>
     <td><a href="https://github.com/amphib24/MITM-detection">Network Attack Analysis</td>
     <td>MITM- ARP|DNS|SSL Stripping</td>
   </tr>
+  <tr>
+    <td>Alert Triage (Splunk)</td>
+    <td><a href="https://github.com/amphib24/alert-triage-splunk/">SOC Alert Investigation</a></td>
+    <td>Brute Force, Persistence, Web Shell</td>
+  </tr>   
   <tr>
     <td>Windows Log Analysis</td>
     <td><a href="https://github.com/amphib24/threat-hunting-windows-log-analysis/tree/main">Log Analysis</a></td>
