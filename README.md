@@ -68,7 +68,12 @@ My goal is to contribute to a security team where discipline, attention to detai
   <tr>
     <td>Windows Log Analysis</td>
     <td><a href="https://github.com/amphib24/threat-hunting-windows-log-analysis/tree/main">Log Analysis</a></td>
-    <td>Threat hunting utilizing Event Viewer and Sysmon</td>
+    <td>Threat unting utilizing Event Viewer and Sysmon</td>
+  </tr>
+   <tr>
+    <td>Linux Log Analysis</td>
+    <td><a href="https://github.com/amphib24/threat-hunting-linux-log-analysis">Log Analysis</a></td>
+    <td>Threat hunting utilizing Linux authentication and audit logs</td>
   </tr>
   <tr>
    <td>Digital Forensics (Autopsy)</td>
