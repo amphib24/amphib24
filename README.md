@@ -76,6 +76,11 @@ My goal is to contribute to a security team where discipline, attention to detai
     <td>Threat hunting utilizing Linux authentication and audit logs</td>
   </tr>
   <tr>
+    <td>SOC Incident Reports</td>
+    <td><a href ="https://github.com/amphib24/soc-reports/tree/main">Reports</a></td>
+    <td>Showcases reporting skills</td>
+  </tr>
+  <tr>
    <td>Digital Forensics (Autopsy)</td>
    <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Digital Forensics Case Study</a></td>
    <td>Evidence Analysis</td>
