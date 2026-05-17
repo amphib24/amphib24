@@ -142,7 +142,7 @@ This section highlights scripting and programming work applied to cybersecurity 
 </tr>
   <tr>
     <td>Bash</td>
-    <td><a href="https://github.com/amphib24/bash_scripts">Bash Repository</a></td> 
+    <td><a href="https://github.com/amphib24/bash_scripts/blob/main/README.md">Bash Repository</a></td> 
 </tr>
 </table>
 
