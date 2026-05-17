@@ -138,7 +138,7 @@ This section highlights scripting and programming work applied to cybersecurity 
  </tr>
 <tr>
     <td>PowerShell</td>
-    <td><a href="https://github.com/amphib24/powershell/edit/main/README.md">PowerShell Repository</a></td> 
+    <td><a href="https://github.com/amphib24/powershell/blob/main/README.md">PowerShell Repository</a></td> 
 </tr>
   <tr>
     <td>Bash</td>
