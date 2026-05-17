@@ -134,7 +134,7 @@ This section highlights scripting and programming work applied to cybersecurity 
   </tr>
   <tr>
     <td>Python</td>
-    <td><a href="https://github.com/amphib24/python_projects">Python Repository</a></td>
+    <td><a href="https://github.com/amphib24/python_projects/blob/main/README.md">Python Repository</a></td>
  </tr>
 <tr>
     <td>PowerShell</td>
