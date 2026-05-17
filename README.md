@@ -77,12 +77,12 @@ My goal is to contribute to a security team where discipline, attention to detai
   </tr>
   <tr>
     <td>SOC Incident Reports</td>
-    <td><a href ="https://github.com/amphib24/soc-reports/tree/main">Reports</a></td>
+    <td><a href ="https://github.com/amphib24/soc-reports/blob/main/README.md">Reports</a></td>
     <td>Showcases reporting skills</td>
   </tr>
   <tr>
    <td>Digital Forensics (Autopsy)</td>
-   <td><a href="https://github.com/amphib24/soc-reports/blob/main/README.md">Digital Forensics Case Study</a></td>
+   <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/blob/main/README.md">Digital Forensics Case Study</a></td>
    <td>Evidence Analysis</td>
   </tr>
 </table>
