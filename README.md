@@ -57,22 +57,22 @@ My goal is to contribute to a security team where discipline, attention to detai
   </tr>
   <tr>
     <td>MITM Analysis (Wireshark)</td>
-    <td><a href="https://github.com/amphib24/MITM-detection">Network Attack Analysis</td>
+    <td><a href="https://github.com/amphib24/MITM-detection/blob/main/README.md">Network Attack Analysis</td>
     <td>MITM- ARP|DNS|SSL Stripping</td>
   </tr>
   <tr>
     <td>Alert Triage (Splunk)</td>
-    <td><a href="https://github.com/amphib24/alert-triage-splunk/">SOC Alert Investigation</a></td>
+    <td><a href="https://github.com/amphib24/alert-triage-splunk/blob/main/README.md">SOC Alert Investigation</a></td>
     <td>Brute Force, Persistence, Web Shell</td>
   </tr>   
   <tr>
     <td>Windows Log Analysis</td>
-    <td><a href="https://github.com/amphib24/threat-hunting-windows-log-analysis/tree/main"> Windows Write-Ups</a></td>
+    <td><a href="https://github.com/amphib24/threat-hunting-windows-log-analysis/blob/main/README.md"> Windows Write-Ups</a></td>
     <td>Threat hunting utilizing Event Viewer and Sysmon</td>
   </tr>
    <tr>
     <td>Linux Log Analysis</td>
-    <td><a href="https://github.com/amphib24/threat-hunting-linux-log-analysis"> Linux Write-Ups</a></td>
+    <td><a href="https://github.com/amphib24/threat-hunting-linux-log-analysis/blob/main/README.md"> Linux Write-Ups</a></td>
     <td>Threat hunting utilizing Linux authentication and audit logs</td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ My goal is to contribute to a security team where discipline, attention to detai
   </tr>
   <tr>
    <td>Digital Forensics (Autopsy)</td>
-   <td><a href="https://github.com/amphib24/Digital_Forensics_Investigation/tree/main">Digital Forensics Case Study</a></td>
+   <td><a href="https://github.com/amphib24/soc-reports/blob/main/README.md">Digital Forensics Case Study</a></td>
    <td>Evidence Analysis</td>
   </tr>
 </table>
